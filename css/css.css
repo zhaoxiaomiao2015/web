@@ -1,0 +1,109 @@
+/*	#whole{
+		width:100%;
+		background:#00FF66;
+	}
+*/
+	#top{
+		position: relative;/*���Զ�λ*/
+		left:0%;
+		margin:0;
+		left:10%;
+
+	}
+	#top img:hover{
+		position: absolute;
+		height:70px;
+	}
+	#pic{
+		margin:0;
+
+	}
+
+	#head{
+		position: relative;/*���Զ�λ*/
+		left:10%;
+
+	}
+
+	#title{
+		position: relative;/*���Զ�λ*/
+		left:10%;
+
+	}
+	#title img:hover{
+		position: absolute;
+		height:50px;
+		width:114px;
+	}
+
+
+	#log{
+		position: relative;/*���Զ�λ*/
+		left:13%;
+
+	}
+
+	#logs{
+		position: relative;/*���Զ�λ*/
+		left:10%;
+
+	}
+	#logs img:hover{
+
+		height:330px;
+		width:330px;
+	}
+
+
+	#one_center	{
+		position: relative;/*���Զ�λ*/
+		left:45%;
+
+	}
+
+	#one_center_picter{
+		position: relative;/*���Զ�λ*/
+		left:10%;
+
+	}
+
+	#one_center_picter img:hover{
+
+		height:250px;
+		width:270px;
+	}
+	#conter_picter_one{
+		position: relative;/*���Զ�λ*/
+	 		left:10%;
+
+	}
+	#conter_picter_one1{
+		position: relative;/*���Զ�λ*/
+	 		left:10%;
+
+	}
+	#conter_picter_one img:hover{
+
+		height:270px;
+		width:250px;
+	}
+
+	#fooder_up{
+		position: relative;/*���Զ�λ*/
+	 	left:13%;
+	}
+
+
+	#fooder{
+		position: relative;/*���Զ�λ*/
+	 	left:13%;
+	}
+
+
+	#hrs{
+		position: relative;/*���Զ�λ*/
+	 	left:13%;
+		width:980px;
+
+
+	}
