@@ -1,0 +1,117 @@
+  body{
+    margin: 0;
+    padding: 0;
+  }
+
+  header{
+    height: 68px;
+    background-color: #CA0007;
+    line-height: 23px;
+  }
+
+  ul, li {
+      margin: 0;
+      padding: 0;
+  }
+
+  #logo{
+    color: #FFF;
+    float: left;
+    margin: 23px 165px;
+    font-size: 34px;
+  }
+
+  #menu{
+    color: #FFF;
+  }
+
+  #menu li{
+    display: inline-block;
+    padding: 23px 42px;
+    font-size: 16px;
+  }
+
+  #gallery{
+  background-color: #66CEEC;
+  height: 437px;
+  position: relative;
+  }
+
+  #gallery .pics{
+    position: absolute;
+    padding: 1px;
+  }
+
+  #gallery .bar{
+  position: absolute;
+  padding: 365px 208px;
+  }
+
+  #gallery .bar li {
+    display: inline-block;
+    border-top: 3px solid #FFF;
+    width: 39px;
+  }
+
+  #gallery .bar li.current{
+  border-color: #CA0007;
+  width: 39px;
+  }
+
+  #middle ul{
+
+  }
+
+  #middle li{
+    display: inline-block;
+    background: #0CF;
+    border-radius: 100%;
+    height: 150px;
+    width: 150px;
+    margin: 52px 86px;
+  }
+
+  #middle .link li.one{
+    background-color: #CA0007;
+  }
+
+  #conter {
+    background-color: #0CF;
+    line-height: 20px
+  }
+
+
+  #conter .new{
+    display: inline-block;
+    background-color: #CA0007;
+    height: 277px;
+    width: 292px;
+    margin: 31px 167px;
+  }
+
+  #conter .compy {
+    display: inline-block;
+    background-color: #CA0007;
+    height: 274px;
+    width: 457px;
+    margin: 0px -149px;
+    line-height: 181px;
+  }
+
+  #conter .compy {
+    display: inline-block;
+    background-color: #CA0007;
+    height: 274px;
+    width: 457px;
+    margin: 0px -149px;
+    line-height: 181px;
+  }
+
+  #conter .pics {
+    display: inline-block;
+    background-color: #CA0007;
+    height: 274px;
+    width: 457px;
+    margin: 0px -149px;
+    line-height: 181px;
+  }
