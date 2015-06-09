@@ -59,7 +59,7 @@
   }
 
   #middle ul{
-
+    margin-left: 165px;
   }
 
   #middle li{
@@ -68,7 +68,7 @@
     border-radius: 100%;
     height: 150px;
     width: 150px;
-    margin: 52px 86px;
+    margin: 52px 46px;
   }
 
   #middle .link li.one{
@@ -76,42 +76,61 @@
   }
 
   #conter {
+    width: 100%;
+    height: 300px;
+
     background-color: #0CF;
-    line-height: 20px
   }
 
-
   #conter .new{
+    float: left;
     display: inline-block;
     background-color: #CA0007;
     height: 277px;
     width: 292px;
-    margin: 31px 167px;
+    margin: 21px 166px;
   }
 
-  #conter .compy {
+  #conter .company {
+    float: left;
     display: inline-block;
     background-color: #CA0007;
-    height: 274px;
-    width: 457px;
-    margin: 0px -149px;
-    line-height: 181px;
+    height: 278px;
+    width: 441px;
+    margin: 21px -142px;
+
   }
 
-  #conter .compy {
-    display: inline-block;
-    background-color: #CA0007;
-    height: 274px;
-    width: 457px;
-    margin: 0px -149px;
-    line-height: 181px;
+  #conter .company p {
+    text-align:left;
+
   }
 
   #conter .pics {
+    float: left;
     display: inline-block;
     background-color: #CA0007;
-    height: 274px;
-    width: 457px;
-    margin: 0px -149px;
-    line-height: 181px;
+    height: 278px;
+    width: 186px;
+    margin: 21px 167px;
+  }
+
+  #picter_list{
+    background-color: #0CF;
+    margin: 36px 0px;
+    height: 310px;
+    width: 100%;
+  }
+
+  #link{
+    background-color: #0CF;
+    margin: 10px 0px;
+    height: 100px;
+
+  }
+
+  #fooder{
+    background-color: black;
+    margin: 20px 0px;
+    height: 100px;
   }
